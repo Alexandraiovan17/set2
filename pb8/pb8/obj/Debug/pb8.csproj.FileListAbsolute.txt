@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set2\pb8\pb8\bin\Debug\pb8.exe.config
+C:\Users\x\Documents\Set2\pb8\pb8\bin\Debug\pb8.exe
+C:\Users\x\Documents\Set2\pb8\pb8\bin\Debug\pb8.pdb
+C:\Users\x\Documents\Set2\pb8\pb8\obj\Debug\pb8.csprojAssemblyReference.cache
+C:\Users\x\Documents\Set2\pb8\pb8\obj\Debug\pb8.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set2\pb8\pb8\obj\Debug\pb8.exe
+C:\Users\x\Documents\Set2\pb8\pb8\obj\Debug\pb8.pdb
