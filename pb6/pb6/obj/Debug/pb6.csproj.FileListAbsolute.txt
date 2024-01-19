@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set2\pb6\pb6\bin\Debug\pb6.exe.config
+C:\Users\x\Documents\Set2\pb6\pb6\bin\Debug\pb6.exe
+C:\Users\x\Documents\Set2\pb6\pb6\bin\Debug\pb6.pdb
+C:\Users\x\Documents\Set2\pb6\pb6\obj\Debug\pb6.csprojAssemblyReference.cache
+C:\Users\x\Documents\Set2\pb6\pb6\obj\Debug\pb6.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set2\pb6\pb6\obj\Debug\pb6.exe
+C:\Users\x\Documents\Set2\pb6\pb6\obj\Debug\pb6.pdb

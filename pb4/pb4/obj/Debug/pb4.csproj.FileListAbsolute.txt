@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set2\pb4\pb4\bin\Debug\pb4.exe.config
+C:\Users\x\Documents\Set2\pb4\pb4\bin\Debug\pb4.exe
+C:\Users\x\Documents\Set2\pb4\pb4\bin\Debug\pb4.pdb
+C:\Users\x\Documents\Set2\pb4\pb4\obj\Debug\pb4.csprojAssemblyReference.cache
+C:\Users\x\Documents\Set2\pb4\pb4\obj\Debug\pb4.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set2\pb4\pb4\obj\Debug\pb4.exe
+C:\Users\x\Documents\Set2\pb4\pb4\obj\Debug\pb4.pdb
